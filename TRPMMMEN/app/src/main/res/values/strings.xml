@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TRPMMMEN</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_gitar">gitar</string>
+    <string name="title_activity_gitar2">gitar2</string>
+    <string name="title_activity_drum">drum</string>
+    <string name="title_activity_drum2">drum2</string>
+    <string name="title_activity_piano">piano</string>
+    <string name="title_activity_piano2">piano2</string>
+
+</resources>
